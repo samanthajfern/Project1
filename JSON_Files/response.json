@@ -1,0 +1,2276 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Reader Center",
+  "last_updated": "2020-10-03T08:26:36-04:00",
+  "num_results": 29,
+  "results": [
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Following Falsehoods: A Reporter\u2019s Approach on QAnon",
+      "abstract": "Kevin Roose, a Times tech columnist, has watched the baseless conspiracy theory grow from fringe internet subculture to mass movement, carefully calibrating his coverage along the way.",
+      "url": "https://www.nytimes.com/2020/10/03/insider/qanon-reporter.html",
+      "uri": "nyt://article/a7dc0867-33ec-568b-867f-ba0f5279cd29",
+      "byline": "By Kevin Roose",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T08:25:36-04:00",
+      "created_date": "2020-10-03T08:25:36-04:00",
+      "published_date": "2020-10-03T08:25:36-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "QAnon",
+        "News and News Media",
+        "Rumors and Misinformation",
+        "Fringe Groups and Movements",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/business/04insider/merlin_160635993_ea73722d-e79c-475b-a3cd-f197086b484a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attendees at a QAnon rally in Washington, D.C., in September. The movement and its falsehoods keep growing.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/business/04insider/merlin_160635993_ea73722d-e79c-475b-a3cd-f197086b484a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attendees at a QAnon rally in Washington, D.C., in September. The movement and its falsehoods keep growing.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/business/04insider/merlin_160635993_ea73722d-e79c-475b-a3cd-f197086b484a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attendees at a QAnon rally in Washington, D.C., in September. The movement and its falsehoods keep growing.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/business/04insider/merlin_160635993_ea73722d-e79c-475b-a3cd-f197086b484a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attendees at a QAnon rally in Washington, D.C., in September. The movement and its falsehoods keep growing.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/business/04insider/merlin_160635993_ea73722d-e79c-475b-a3cd-f197086b484a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attendees at a QAnon rally in Washington, D.C., in September. The movement and its falsehoods keep growing.",
+          "copyright": "Tom Brenner for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3neRZas"
+    },
+    {
+      "section": "reader-center",
+      "subsection": "",
+      "title": "In \u2018The Field\u2019 Podcast, Voters Are the Main Characters",
+      "abstract": "After a pandemic-induced hiatus, the show has returned, with a focus on the voices of Americans throughout the country as they grapple with the weightiest questions of the November election.",
+      "url": "https://www.nytimes.com/2020/09/25/reader-center/the-field-2020-election-podcast.html",
+      "uri": "nyt://article/76a7d5b6-8c51-54c6-b47e-db19a1e0e812",
+      "byline": "By Emma Grillo",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T01:37:57-04:00",
+      "created_date": "2020-09-25T15:30:10-04:00",
+      "published_date": "2020-09-25T15:30:10-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Podcasts",
+        "Presidential Election of 2020",
+        "Voting and Voters"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/podcasts/25insider-field7-print/25insider-field7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The audio producer Jessica Cheung, left, with the politics reporter Astead W. Herndon, center, in North Andover, Mass. They interviewed Lyn Licciardello, right, a supporter of Elizabeth Warren, in March for an episode of &ldquo;The Field&rdquo; after Ms. Warren dropped out of the Democratic presidential primary race.",
+          "copyright": "Austin Mitchell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/podcasts/25insider-field7-print/25insider-field7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The audio producer Jessica Cheung, left, with the politics reporter Astead W. Herndon, center, in North Andover, Mass. They interviewed Lyn Licciardello, right, a supporter of Elizabeth Warren, in March for an episode of &ldquo;The Field&rdquo; after Ms. Warren dropped out of the Democratic presidential primary race.",
+          "copyright": "Austin Mitchell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/podcasts/25insider-field7-print/25insider-field7-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The audio producer Jessica Cheung, left, with the politics reporter Astead W. Herndon, center, in North Andover, Mass. They interviewed Lyn Licciardello, right, a supporter of Elizabeth Warren, in March for an episode of &ldquo;The Field&rdquo; after Ms. Warren dropped out of the Democratic presidential primary race.",
+          "copyright": "Austin Mitchell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/podcasts/25insider-field7-print/25insider-field7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The audio producer Jessica Cheung, left, with the politics reporter Astead W. Herndon, center, in North Andover, Mass. They interviewed Lyn Licciardello, right, a supporter of Elizabeth Warren, in March for an episode of &ldquo;The Field&rdquo; after Ms. Warren dropped out of the Democratic presidential primary race.",
+          "copyright": "Austin Mitchell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/podcasts/25insider-field7-print/25insider-field7-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The audio producer Jessica Cheung, left, with the politics reporter Astead W. Herndon, center, in North Andover, Mass. They interviewed Lyn Licciardello, right, a supporter of Elizabeth Warren, in March for an episode of &ldquo;The Field&rdquo; after Ms. Warren dropped out of the Democratic presidential primary race.",
+          "copyright": "Austin Mitchell"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mMDLgJ"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "What\u2019s It Like to Take the SAT in a Pandemic? To Find Out, I Took the Exam Myself",
+      "abstract": "Did I a) ace it; b) better understand students\u2019 experiences; c) question my own rational judgment for going through this again? Hint: It\u2019s not all of the above.",
+      "url": "https://www.nytimes.com/2020/09/30/insider/taking-SAT-pandemic.html",
+      "uri": "nyt://article/fba7488d-2c44-522e-8bba-aec46f7f968a",
+      "byline": "By Emma Goldberg",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T15:53:05-04:00",
+      "created_date": "2020-09-30T05:00:12-04:00",
+      "published_date": "2020-09-30T05:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "SAT (College Admission Test)",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [
+        "New York Times",
+        "Sleepy Hollow High School"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Sleepy Hollow (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/us/28schoolnewsletter/28schoolnewsletter-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Times reporter Emma Goldberg outside the test site in Sleepy Hollow, N.Y. Her scores won\u2019t matter \u2014 but don\u2019t ask her to reveal them.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/us/28schoolnewsletter/28schoolnewsletter-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Times reporter Emma Goldberg outside the test site in Sleepy Hollow, N.Y. Her scores won\u2019t matter \u2014 but don\u2019t ask her to reveal them.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/us/28schoolnewsletter/28schoolnewsletter-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Times reporter Emma Goldberg outside the test site in Sleepy Hollow, N.Y. Her scores won\u2019t matter \u2014 but don\u2019t ask her to reveal them.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/us/28schoolnewsletter/28schoolnewsletter-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Times reporter Emma Goldberg outside the test site in Sleepy Hollow, N.Y. Her scores won\u2019t matter \u2014 but don\u2019t ask her to reveal them.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/us/28schoolnewsletter/28schoolnewsletter-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Times reporter Emma Goldberg outside the test site in Sleepy Hollow, N.Y. Her scores won\u2019t matter \u2014 but don\u2019t ask her to reveal them.",
+          "copyright": "Hilary Swift for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33f4bzR"
+    },
+    {
+      "section": "homepage",
+      "subsection": "",
+      "title": "We Want to Hear From You",
+      "abstract": "Do you have a story idea, a question for our newsroom or feedback on our coverage? Let us know.",
+      "url": "https://www.nytimes.com/2019/10/15/homepage/contact-newsroom.html",
+      "uri": "nyt://article/12df2ea3-dc4f-59f1-a84c-a933dd5507dc",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-02-18T14:16:44-05:00",
+      "created_date": "2019-10-15T17:55:27-04:00",
+      "published_date": "2019-10-15T17:55:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/reader-center/12sourcepool-promo/12sourcepool-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/reader-center/12sourcepool-promo/12sourcepool-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/reader-center/12sourcepool-promo/12sourcepool-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/reader-center/12sourcepool-promo/12sourcepool-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/01/08/reader-center/12sourcepool-promo/12sourcepool-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Amrita Marino"
+        }
+      ],
+      "short_url": "https://nyti.ms/2UCS2AG"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "How Do You Feel About Returning to the Office?",
+      "abstract": "We would like to hear how employees and employers are handling a return to their offices, even as others continue working from home.",
+      "url": "https://www.nytimes.com/2020/09/29/business/return-to-office.html",
+      "uri": "nyt://article/1ca562a0-8c4c-5750-b029-73fc2fed02a9",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T17:01:49-04:00",
+      "created_date": "2020-09-29T14:57:49-04:00",
+      "published_date": "2020-09-29T14:57:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Workplace Environment",
+        "Telecommuting",
+        "Quarantines",
+        "Coronavirus (2019-nCoV)",
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1198,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/25return-to-work-callout/25return-to-work-callout-articleInline.jpg",
+          "format": "Normal",
+          "height": 111,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workplace dynamics in office settings probably don\u2019t look the same as they did before the pandemic.",
+          "copyright": "Steven Senne/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/347m82t"
+    },
+    {
+      "section": "reader-center",
+      "subsection": "",
+      "title": "Times Readers Reflect on Ruth Bader Ginsburg",
+      "abstract": "\u2018She showed me that one can be soft-spoken, yet substantial.\u2019",
+      "url": "https://www.nytimes.com/interactive/2020/09/23/reader-center/rbg-death-reader-reactions.html",
+      "uri": "nyt://interactive/e98ddd6b-899d-52ef-90ac-c9d577b20e80",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-25T07:43:21-04:00",
+      "created_date": "2020-09-23T17:51:45-04:00",
+      "published_date": "2020-09-23T17:51:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Careers and Professions"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/burst/23bursts-rbgcomments-slide-073F/23bursts-rbgcomments-slide-073F-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 800,
+          "width": 1200,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yen Mooi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/burst/23bursts-rbgcomments-slide-073F/23bursts-rbgcomments-slide-073F-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yen Mooi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/burst/23bursts-rbgcomments-slide-073F/23bursts-rbgcomments-slide-073F-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yen Mooi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/burst/23bursts-rbgcomments-slide-073F/23bursts-rbgcomments-slide-073F-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yen Mooi"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/burst/23bursts-rbgcomments-slide-073F/23bursts-rbgcomments-slide-073F-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Yen Mooi"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j3UWrW"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Capturing the Faces of Climate Migration",
+      "abstract": "A Times Magazine series examines how climate change will force millions worldwide to move. Recently, Meridith Kohut photographed people on the front lines of this shift. In America.",
+      "url": "https://www.nytimes.com/2020/09/19/insider/climate-migration-photographer.html",
+      "uri": "nyt://article/0a00f4b4-89b8-5efd-b1f1-f373c149e6df",
+      "byline": "By Libby Peterson",
+      "item_type": "Article",
+      "updated_date": "2020-09-20T00:09:09-04:00",
+      "created_date": "2020-09-19T12:17:47-04:00",
+      "published_date": "2020-09-19T12:17:47-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Global Warming",
+        "Photography"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/pageoneplus/20migrants2/20migrants2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Consuelo Sandoval (left) and her husband, Roberto Gonz\u00e1lez, rush to evacuate their home in Sonoma County, Calif., after getting notified of approaching wildfires.\u00a0",
+          "copyright": "Meridith Kohut for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/pageoneplus/20migrants2/20migrants2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Consuelo Sandoval (left) and her husband, Roberto Gonz\u00e1lez, rush to evacuate their home in Sonoma County, Calif., after getting notified of approaching wildfires.\u00a0",
+          "copyright": "Meridith Kohut for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/pageoneplus/20migrants2/20migrants2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Consuelo Sandoval (left) and her husband, Roberto Gonz\u00e1lez, rush to evacuate their home in Sonoma County, Calif., after getting notified of approaching wildfires.\u00a0",
+          "copyright": "Meridith Kohut for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/pageoneplus/20migrants2/20migrants2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Consuelo Sandoval (left) and her husband, Roberto Gonz\u00e1lez, rush to evacuate their home in Sonoma County, Calif., after getting notified of approaching wildfires.\u00a0",
+          "copyright": "Meridith Kohut for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/pageoneplus/20migrants2/20migrants2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Consuelo Sandoval (left) and her husband, Roberto Gonz\u00e1lez, rush to evacuate their home in Sonoma County, Calif., after getting notified of approaching wildfires.\u00a0",
+          "copyright": "Meridith Kohut for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/32IqvSg"
+    },
+    {
+      "section": "reader-center",
+      "subsection": "",
+      "title": "Tell Us: How Did Ruth Bader Ginsburg Influence You?",
+      "abstract": "Share your photos and stories about what the esteemed Supreme Court justice\u2019s career meant to you.",
+      "url": "https://www.nytimes.com/2020/09/18/reader-center/ruth-bader-ginsburg-influence.html",
+      "uri": "nyt://article/a40624f1-c4c2-50d6-8e87-efb8cab7eeac",
+      "byline": "By Hannah Wise",
+      "item_type": "Article",
+      "updated_date": "2020-09-18T23:57:55-04:00",
+      "created_date": "2020-09-18T23:07:21-04:00",
+      "published_date": "2020-09-18T23:07:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/opinion/21ginsburg-editorial/18ginsburg-editorial-superJumbo-v8.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Nicholas Konrad/The New York Times; photograph by Diana Walker/The LIFE Images Collection/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/opinion/21ginsburg-editorial/18ginsburg-editorial-thumbStandard-v9.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Nicholas Konrad/The New York Times; photograph by Diana Walker/The LIFE Images Collection/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/opinion/21ginsburg-editorial/18ginsburg-editorial-thumbLarge-v9.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Nicholas Konrad/The New York Times; photograph by Diana Walker/The LIFE Images Collection/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/opinion/21ginsburg-editorial/18ginsburg-editorial-mediumThreeByTwo210-v10.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Nicholas Konrad/The New York Times; photograph by Diana Walker/The LIFE Images Collection/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/opinion/21ginsburg-editorial/18ginsburg-editorial-articleInline-v8.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Nicholas Konrad/The New York Times; photograph by Diana Walker/The LIFE Images Collection/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/33LEd5Y"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Has the Mail Really Slowed? We Wanted to Find Out",
+      "abstract": "To track the speed of delivery across the country, The Upshot thought about a pen pal network before partnering with a company that collects the data.",
+      "url": "https://www.nytimes.com/2020/09/18/insider/mail-election.html",
+      "uri": "nyt://article/39a58d83-b58d-501e-ad17-3f21698aa908",
+      "byline": "By Emily Badger and Quoctrung Bui",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T02:35:32-04:00",
+      "created_date": "2020-09-18T05:00:31-04:00",
+      "published_date": "2020-09-18T05:00:31-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Postal Service and Post Offices",
+        "Letters",
+        "Absentee Voting",
+        "Presidential Election of 2020",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        "Postal Service (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/upshot/up-mail-tracker-insider-promo/up-mail-tracker-insider-promo-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1200,
+          "width": 1600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Quoctrung Bui/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/upshot/up-mail-tracker-insider-promo/up-mail-tracker-insider-promo-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Quoctrung Bui/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/upshot/up-mail-tracker-insider-promo/up-mail-tracker-insider-promo-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Quoctrung Bui/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/upshot/up-mail-tracker-insider-promo/up-mail-tracker-insider-promo-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Quoctrung Bui/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/upshot/up-mail-tracker-insider-promo/up-mail-tracker-insider-promo-articleInline.png",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Quoctrung Bui/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33Es8PZ"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "What I Saw When Australia Burned",
+      "abstract": "At one point, the wildfires that country experienced seemed to fade from our memory. Not anymore. And what I witnessed there has shaped my thoughts on what\u2019s raging here.",
+      "url": "https://www.nytimes.com/2020/09/18/insider/new-york-times-presents-wildfires.html",
+      "uri": "nyt://article/e35053e0-0a6e-5547-b728-db45562c71f1",
+      "byline": "By John Pappas",
+      "item_type": "Article",
+      "updated_date": "2020-09-19T19:09:05-04:00",
+      "created_date": "2020-09-18T05:00:28-04:00",
+      "published_date": "2020-09-18T05:00:28-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Wildfires"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Australia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/pageoneplus/18-insider-print/18-insider-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1512,
+          "width": 2016,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amir Kamrani (left), assistant cameraman, and Victor Suarez, director of photography, survey damage in South Nowra, Australia, for an episode of &ldquo;The New York Times Presents.&rdquo;",
+          "copyright": "John Pappas"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/pageoneplus/18-insider-print/18-insider-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amir Kamrani (left), assistant cameraman, and Victor Suarez, director of photography, survey damage in South Nowra, Australia, for an episode of &ldquo;The New York Times Presents.&rdquo;",
+          "copyright": "John Pappas"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/pageoneplus/18-insider-print/18-insider-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amir Kamrani (left), assistant cameraman, and Victor Suarez, director of photography, survey damage in South Nowra, Australia, for an episode of &ldquo;The New York Times Presents.&rdquo;",
+          "copyright": "John Pappas"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/pageoneplus/18-insider-print/18-insider-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amir Kamrani (left), assistant cameraman, and Victor Suarez, director of photography, survey damage in South Nowra, Australia, for an episode of &ldquo;The New York Times Presents.&rdquo;",
+          "copyright": "John Pappas"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/18/pageoneplus/18-insider-print/18-insider-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amir Kamrani (left), assistant cameraman, and Victor Suarez, director of photography, survey damage in South Nowra, Australia, for an episode of &ldquo;The New York Times Presents.&rdquo;",
+          "copyright": "John Pappas"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fwl3sZ"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Disasters on Two Coasts: How to Help",
+      "abstract": "With fires on the West Coast and floods on the Gulf Coast, relief organizations are providing meals and shelter to devastated communities. If you want to give aid, here are some research pointers.",
+      "url": "https://www.nytimes.com/2020/09/17/us/how-to-help.html",
+      "uri": "nyt://article/575cd204-2ddd-5ecf-9377-8de5eec30333",
+      "byline": "By Concepci\u00f3n de Le\u00f3n and Christine Hauser",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T19:47:57-04:00",
+      "created_date": "2020-09-17T12:24:54-04:00",
+      "published_date": "2020-09-17T12:24:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Philanthropy",
+        "Wildfires",
+        "Hurricanes and Tropical Storms"
+      ],
+      "org_facet": [
+        "American Red Cross",
+        "Charity Navigator"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Alabama",
+        "California",
+        "Oregon",
+        "Washington (State)",
+        "Florida",
+        "Mississippi"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/multimedia/00xp-disasters-pix1/00xp-disasters-pix1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1455,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dee Perez comforted Michael Reynolds in the ruins of his home destroyed in the Almeda Fire in Talent, Ore.",
+          "copyright": "Robyn Beck/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/multimedia/00xp-disasters-pix1/00xp-disasters-pix1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dee Perez comforted Michael Reynolds in the ruins of his home destroyed in the Almeda Fire in Talent, Ore.",
+          "copyright": "Robyn Beck/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/multimedia/00xp-disasters-pix1/00xp-disasters-pix1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dee Perez comforted Michael Reynolds in the ruins of his home destroyed in the Almeda Fire in Talent, Ore.",
+          "copyright": "Robyn Beck/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/multimedia/00xp-disasters-pix1/00xp-disasters-pix1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dee Perez comforted Michael Reynolds in the ruins of his home destroyed in the Almeda Fire in Talent, Ore.",
+          "copyright": "Robyn Beck/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/multimedia/00xp-disasters-pix1/00xp-disasters-pix1-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dee Perez comforted Michael Reynolds in the ruins of his home destroyed in the Almeda Fire in Talent, Ore.",
+          "copyright": "Robyn Beck/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/35KnyCx"
+    },
+    {
+      "section": "reader-center",
+      "subsection": "",
+      "title": "How My 2-Year-Old Planted a Coronavirus Story Idea",
+      "abstract": "After another child at my son\u2019s day care tested positive, I ran into obstacle after obstacle trying to get him a test. I quickly learned I wasn\u2019t alone among concerned parents of young children.",
+      "url": "https://www.nytimes.com/2020/09/13/reader-center/coronavirus-testing-children.html",
+      "uri": "nyt://article/4d4e8eb5-3205-5e91-98ef-af9d3e96792a",
+      "byline": "By Sarah Kliff",
+      "item_type": "Article",
+      "updated_date": "2020-09-13T18:58:14-04:00",
+      "created_date": "2020-09-13T05:00:08-04:00",
+      "published_date": "2020-09-13T05:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Tests (Medical)",
+        "Children and Childhood",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Day Care Centers",
+        "Parenting"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States",
+        "Washington (DC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/pageoneplus/13insider/merlin_176419257_ee290653-ba33-4229-b68d-64f328f4c5c4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A toddler getting tested for the coronavirus in Seattle. Many testing sites serve only adults.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/pageoneplus/13insider/merlin_176419257_ee290653-ba33-4229-b68d-64f328f4c5c4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A toddler getting tested for the coronavirus in Seattle. Many testing sites serve only adults.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/pageoneplus/13insider/merlin_176419257_ee290653-ba33-4229-b68d-64f328f4c5c4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A toddler getting tested for the coronavirus in Seattle. Many testing sites serve only adults.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/pageoneplus/13insider/merlin_176419257_ee290653-ba33-4229-b68d-64f328f4c5c4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A toddler getting tested for the coronavirus in Seattle. Many testing sites serve only adults.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/13/pageoneplus/13insider/merlin_176419257_ee290653-ba33-4229-b68d-64f328f4c5c4-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A toddler getting tested for the coronavirus in Seattle. Many testing sites serve only adults.",
+          "copyright": "Elaine Thompson/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fp2Mh3"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "A Photographer Works to the Sound of Falling Trees",
+      "abstract": "Fire tore through Big Basin Redwoods State Park. I went to see what it left behind.",
+      "url": "https://www.nytimes.com/2020/09/10/insider/big-basin-fire-photography.html",
+      "uri": "nyt://article/97c0466a-de18-5826-84f6-dcc8bf87270e",
+      "byline": "By Max Whittaker",
+      "item_type": "Article",
+      "updated_date": "2020-09-10T05:00:27-04:00",
+      "created_date": "2020-09-10T05:00:27-04:00",
+      "published_date": "2020-09-10T05:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Wildfires",
+        "Photography",
+        "Forests and Forestry"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Big Basin Redwoods State Park (California)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/us/04insider-bigbasin01/merlin_176018472_ba969d34-ddd1-42aa-ac10-19707f2814a5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/us/04insider-bigbasin01/merlin_176018472_ba969d34-ddd1-42aa-ac10-19707f2814a5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/us/04insider-bigbasin01/merlin_176018472_ba969d34-ddd1-42aa-ac10-19707f2814a5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/us/04insider-bigbasin01/merlin_176018472_ba969d34-ddd1-42aa-ac10-19707f2814a5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/us/04insider-bigbasin01/merlin_176018472_ba969d34-ddd1-42aa-ac10-19707f2814a5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Whittaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3m9GVdW"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "The Friendship of Elena and Tom",
+      "abstract": "It\u2019s rare that someone meets her favorite ballplayer. It\u2019s even rarer that he becomes a fan of hers.",
+      "url": "https://www.nytimes.com/2020/09/07/insider/the-friendship-of-elena-and-tom.html",
+      "uri": "nyt://article/379bc77c-0ee3-55a4-84c7-11959361262a",
+      "byline": "By Vincent M. Mallozzi",
+      "item_type": "Article",
+      "updated_date": "2020-09-08T05:45:22-04:00",
+      "created_date": "2020-09-07T05:00:18-04:00",
+      "published_date": "2020-09-07T05:00:18-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Baseball"
+      ],
+      "org_facet": [
+        "New York Mets"
+      ],
+      "per_facet": [
+        "Seaver, Tom"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/pageoneplus/07insider-elena-and-seaver/07insider-elena-and-seaver-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1625,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The baseball great Tom Seaver and Elena Gustines in 2009.",
+          "copyright": "Joe Ward"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/pageoneplus/07insider-elena-and-seaver/07insider-elena-and-seaver-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The baseball great Tom Seaver and Elena Gustines in 2009.",
+          "copyright": "Joe Ward"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/pageoneplus/07insider-elena-and-seaver/07insider-elena-and-seaver-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The baseball great Tom Seaver and Elena Gustines in 2009.",
+          "copyright": "Joe Ward"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/pageoneplus/07insider-elena-and-seaver/07insider-elena-and-seaver-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The baseball great Tom Seaver and Elena Gustines in 2009.",
+          "copyright": "Joe Ward"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/pageoneplus/07insider-elena-and-seaver/07insider-elena-and-seaver-articleInline.jpg",
+          "format": "Normal",
+          "height": 239,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The baseball great Tom Seaver and Elena Gustines in 2009.",
+          "copyright": "Joe Ward"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fg9zJj"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Off the Shore, Finding Sharks and Freedom",
+      "abstract": "Reporting on a unique group of fishermen was an adventure. Getting on the water myself was otherworldly.",
+      "url": "https://www.nytimes.com/2020/09/06/insider/shark-fishing.html",
+      "uri": "nyt://article/87f1047d-43cd-537a-b42c-139c28c195d1",
+      "byline": "By Jordan Salama",
+      "item_type": "Article",
+      "updated_date": "2020-09-10T21:50:55-04:00",
+      "created_date": "2020-09-06T05:00:19-04:00",
+      "published_date": "2020-09-06T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Sharks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Jones Beach (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/pageoneplus/11insider-sub/merlin_175758324_2cce1efe-d8d2-4e00-9210-fe1378d497fe-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vinny Cericola is one of several recreational fishermen on Long Island who catch and release sharks from the beach. The reporter, Jordan Salama, and the photographer, Mark Abramson, spent two 12-hour days observing them.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/pageoneplus/11insider-sub/merlin_175758324_2cce1efe-d8d2-4e00-9210-fe1378d497fe-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vinny Cericola is one of several recreational fishermen on Long Island who catch and release sharks from the beach. The reporter, Jordan Salama, and the photographer, Mark Abramson, spent two 12-hour days observing them.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/pageoneplus/11insider-sub/merlin_175758324_2cce1efe-d8d2-4e00-9210-fe1378d497fe-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vinny Cericola is one of several recreational fishermen on Long Island who catch and release sharks from the beach. The reporter, Jordan Salama, and the photographer, Mark Abramson, spent two 12-hour days observing them.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/pageoneplus/11insider-sub/merlin_175758324_2cce1efe-d8d2-4e00-9210-fe1378d497fe-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vinny Cericola is one of several recreational fishermen on Long Island who catch and release sharks from the beach. The reporter, Jordan Salama, and the photographer, Mark Abramson, spent two 12-hour days observing them.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/pageoneplus/11insider-sub/merlin_175758324_2cce1efe-d8d2-4e00-9210-fe1378d497fe-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vinny Cericola is one of several recreational fishermen on Long Island who catch and release sharks from the beach. The reporter, Jordan Salama, and the photographer, Mark Abramson, spent two 12-hour days observing them.",
+          "copyright": "Mark Abramson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bASd67"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Creating New Boundaries Where Journalism and Geography Meet",
+      "abstract": "A project from the Graphics desk wanted to find out if the color in your neighborhood, as seen from above, might indicate how you voted.",
+      "url": "https://www.nytimes.com/2020/09/04/insider/journalism-and-geography.html",
+      "uri": "nyt://article/c3b85fb7-fee5-5cbb-bbd7-7d9291cdddad",
+      "byline": "By Will Dudding",
+      "item_type": "Article",
+      "updated_date": "2020-09-08T01:46:50-04:00",
+      "created_date": "2020-09-04T11:00:53-04:00",
+      "published_date": "2020-09-04T11:00:53-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Maps",
+        "Geography"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/insider/03insider-above-top-print/03insider-above-top-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1192,
+          "width": 1800,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aerial imagery of America shows the different colors of land use and natural areas.",
+          "copyright": "National Agriculture Imagery Program, via Descartes Labs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/insider/03insider-above-top-print/03insider-above-top-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aerial imagery of America shows the different colors of land use and natural areas.",
+          "copyright": "National Agriculture Imagery Program, via Descartes Labs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/insider/03insider-above-top-print/03insider-above-top-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aerial imagery of America shows the different colors of land use and natural areas.",
+          "copyright": "National Agriculture Imagery Program, via Descartes Labs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/insider/03insider-above-top-print/03insider-above-top-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aerial imagery of America shows the different colors of land use and natural areas.",
+          "copyright": "National Agriculture Imagery Program, via Descartes Labs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/08/insider/03insider-above-top-print/03insider-above-top-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aerial imagery of America shows the different colors of land use and natural areas.",
+          "copyright": "National Agriculture Imagery Program, via Descartes Labs"
+        }
+      ],
+      "short_url": "https://nyti.ms/32YM4gk"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Following My Instincts Back to South Dakota",
+      "abstract": "Reporting experience at a previous job told me that I should check out the Sturgis Motorcycle Rally this year.",
+      "url": "https://www.nytimes.com/2020/09/03/insider/south-dakota-rally-coverage.html",
+      "uri": "nyt://article/0537d3a5-a75a-5267-8b45-041260c2e200",
+      "byline": "By Mark Walker",
+      "item_type": "Article",
+      "updated_date": "2020-09-03T05:00:09-04:00",
+      "created_date": "2020-09-03T05:00:09-04:00",
+      "published_date": "2020-09-03T05:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Motorcycles, Motor Bikes and Motorscooters"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Sioux Falls (SD)",
+        "South Dakota"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/03/pageoneplus/03insider-sturgis-print/03insider-sturgis-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1339,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For 80 years, bikers have gathered at the Sturgis Motorcycle Rally, in western South Dakota. A Times reporter went to see what it looked like this year amid the pandemic.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/03/pageoneplus/03insider-sturgis-print/03insider-sturgis-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For 80 years, bikers have gathered at the Sturgis Motorcycle Rally, in western South Dakota. A Times reporter went to see what it looked like this year amid the pandemic.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/03/pageoneplus/03insider-sturgis-print/03insider-sturgis-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For 80 years, bikers have gathered at the Sturgis Motorcycle Rally, in western South Dakota. A Times reporter went to see what it looked like this year amid the pandemic.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/03/pageoneplus/03insider-sturgis-print/03insider-sturgis-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For 80 years, bikers have gathered at the Sturgis Motorcycle Rally, in western South Dakota. A Times reporter went to see what it looked like this year amid the pandemic.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/03/pageoneplus/03insider-sturgis-print/03insider-sturgis-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For 80 years, bikers have gathered at the Sturgis Motorcycle Rally, in western South Dakota. A Times reporter went to see what it looked like this year amid the pandemic.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/32N11Sw"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "What We Learned From the D.N.C.",
+      "abstract": "After the convention ended, a panel of Times political journalists who analyzed the Democrats\u2019 big event discussed the ticket, Joe Biden\u2019s speech and the party\u2019s priorities.",
+      "url": "https://www.nytimes.com/2020/08/31/insider/democratic-convention-talk.html",
+      "uri": "nyt://article/cab8ff0c-1e1c-5d2a-af04-a53371b50c7e",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2020-08-31T05:00:07-04:00",
+      "created_date": "2020-08-31T05:00:07-04:00",
+      "published_date": "2020-08-31T05:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Democratic National Convention"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/31/us/politics/20dems-ledeall-top1/20dems-ledeall-top1-superJumbo-v4.jpg",
+          "format": "superJumbo",
+          "height": 906,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr. speaking at the Democratic National Convention on Aug. 20.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/31/us/politics/20dems-ledeall-top1/20dems-ledeall-top1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr. speaking at the Democratic National Convention on Aug. 20.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/31/us/politics/20dems-ledeall-top1/20dems-ledeall-top1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr. speaking at the Democratic National Convention on Aug. 20.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/31/us/politics/20dems-ledeall-top1/20dems-ledeall-top1-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr. speaking at the Democratic National Convention on Aug. 20.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/31/us/politics/20dems-ledeall-top1/20dems-ledeall-top1-articleInline-v4.jpg",
+          "format": "Normal",
+          "height": 84,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph R. Biden Jr. speaking at the Democratic National Convention on Aug. 20.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/32JEypz"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "My Job? Telling People What Happens Next",
+      "abstract": "I spend my time talking to experts, trying to envision what the future of the coronavirus crisis looks like. There aren\u2019t a lot of rules on how to do this.",
+      "url": "https://www.nytimes.com/2020/08/27/insider/coronavirus-future.html",
+      "uri": "nyt://article/c985aaa9-23b7-5d85-a184-477abd32bcf9",
+      "byline": "By Donald G. McNeil Jr.",
+      "item_type": "Article",
+      "updated_date": "2020-08-30T17:50:53-04:00",
+      "created_date": "2020-08-27T05:00:17-04:00",
+      "published_date": "2020-08-27T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Epidemics",
+        "Shutdowns (Institutional)",
+        "The Daily (Radio Program)",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/insider/26insider-mcneil-promo/merlin_171672816_784ac7fe-d65c-40c7-b58c-09fde99cf845-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Misha Friedman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/insider/26insider-mcneil-promo/26insider-mcneil-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Misha Friedman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/insider/26insider-mcneil-promo/26insider-mcneil-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Misha Friedman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/insider/26insider-mcneil-promo/merlin_171672816_784ac7fe-d65c-40c7-b58c-09fde99cf845-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Misha Friedman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/insider/26insider-mcneil-promo/merlin_171672816_784ac7fe-d65c-40c7-b58c-09fde99cf845-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Misha Friedman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34C8rud"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "A Conversation About Making Cities More Equitable",
+      "abstract": "Juli\u00e1n Castro, Raj Chetty and Sonja Trauss discussed how the places we live shape our prospects in life, with the Times columnist Farhad Manjoo.",
+      "url": "https://www.nytimes.com/2020/08/26/opinion/event-fair-housing-segregation.html",
+      "uri": "nyt://article/ac4a6b36-ca63-53ad-ac64-0a7db845ad8e",
+      "byline": "By The New York Times Opinion",
+      "item_type": "Article",
+      "updated_date": "2020-09-09T14:29:07-04:00",
+      "created_date": "2020-08-26T15:00:09-04:00",
+      "published_date": "2020-08-26T15:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Urban Areas",
+        "Income Inequality",
+        "Affordable Housing"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Castro, Julian",
+        "Manjoo, Farhad"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/opinion/26opinionevent2/26opinionevent2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1343,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "George Clerk/E+, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/opinion/26opinionevent2/26opinionevent2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "George Clerk/E+, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/opinion/26opinionevent2/26opinionevent2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "George Clerk/E+, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/opinion/26opinionevent2/26opinionevent2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "George Clerk/E+, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/26/opinion/26opinionevent2/26opinionevent2-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "George Clerk/E+, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ll02RW"
+    },
+    {
+      "section": "reader-center",
+      "subsection": "",
+      "title": "Share Your Memories of Big Basin Redwoods State Park",
+      "abstract": "Though the forest is expected to survive, nearly all the structures in California\u2019s oldest state park have burned down. Tell us what you loved most about the place.",
+      "url": "https://www.nytimes.com/2020/08/25/reader-center/share-memories-of-big-basin.html",
+      "uri": "nyt://article/9354d2f2-4f2b-5302-91d8-8a4930b8c2c8",
+      "byline": "By Anushka Patil",
+      "item_type": "Article",
+      "updated_date": "2020-08-25T15:40:45-04:00",
+      "created_date": "2020-08-25T15:40:45-04:00",
+      "published_date": "2020-08-25T15:40:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wildfires",
+        "Forests and Forestry"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "California",
+        "San Francisco Bay Area (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/us/25bigbasin-callout-photo/25bigbasin-callout-photo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don\u2019t mistake that scowl for any displeasure with Big Basin. Most likely it had to do with the writer\u2019s own, curious choice of forest attire.",
+          "copyright": "Anushka Patil"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/us/25bigbasin-callout-photo/25bigbasin-callout-photo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don\u2019t mistake that scowl for any displeasure with Big Basin. Most likely it had to do with the writer\u2019s own, curious choice of forest attire.",
+          "copyright": "Anushka Patil"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/us/25bigbasin-callout-photo/25bigbasin-callout-photo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don\u2019t mistake that scowl for any displeasure with Big Basin. Most likely it had to do with the writer\u2019s own, curious choice of forest attire.",
+          "copyright": "Anushka Patil"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/us/25bigbasin-callout-photo/25bigbasin-callout-photo-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don\u2019t mistake that scowl for any displeasure with Big Basin. Most likely it had to do with the writer\u2019s own, curious choice of forest attire.",
+          "copyright": "Anushka Patil"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/us/25bigbasin-callout-photo/25bigbasin-callout-photo-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Don\u2019t mistake that scowl for any displeasure with Big Basin. Most likely it had to do with the writer\u2019s own, curious choice of forest attire.",
+          "copyright": "Anushka Patil"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EE3RAE"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Helping Parents Hold the Line",
+      "abstract": "Whether it\u2019s covering issues about safety, schooling or burnout, the members of the Parenting desk are working during this \u201cnew reality\u201d to support caregivers on all fronts.",
+      "url": "https://www.nytimes.com/2020/08/25/insider/parenting-desk.html",
+      "uri": "nyt://article/4ef0b093-06e4-57f9-ad4f-421b6c963c32",
+      "byline": "By Emma Grillo",
+      "item_type": "Article",
+      "updated_date": "2020-08-25T15:29:35-04:00",
+      "created_date": "2020-08-25T08:57:07-04:00",
+      "published_date": "2020-08-25T08:57:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Parenting",
+        "Education (K-12)",
+        "Children and Childhood"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/insider/25insider-parenting-03/25insider-parenting-03-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1769,
+          "width": 1769,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farah Miller&rsquo;s 5-year-old daughter, Bergen, was not pleased about the closed-door policy in her mom&rsquo;s home office recently. Like millions of caregivers nationwide, Parenting desk staff members are juggling work, home and school issues.",
+          "copyright": "Farah Miller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/insider/25insider-parenting-03/25insider-parenting-03-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farah Miller&rsquo;s 5-year-old daughter, Bergen, was not pleased about the closed-door policy in her mom&rsquo;s home office recently. Like millions of caregivers nationwide, Parenting desk staff members are juggling work, home and school issues.",
+          "copyright": "Farah Miller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/insider/25insider-parenting-03/25insider-parenting-03-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farah Miller&rsquo;s 5-year-old daughter, Bergen, was not pleased about the closed-door policy in her mom&rsquo;s home office recently. Like millions of caregivers nationwide, Parenting desk staff members are juggling work, home and school issues.",
+          "copyright": "Farah Miller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/insider/25insider-parenting-03/25insider-parenting-03-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farah Miller&rsquo;s 5-year-old daughter, Bergen, was not pleased about the closed-door policy in her mom&rsquo;s home office recently. Like millions of caregivers nationwide, Parenting desk staff members are juggling work, home and school issues.",
+          "copyright": "Farah Miller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/25/insider/25insider-parenting-03/25insider-parenting-03-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farah Miller&rsquo;s 5-year-old daughter, Bergen, was not pleased about the closed-door policy in her mom&rsquo;s home office recently. Like millions of caregivers nationwide, Parenting desk staff members are juggling work, home and school issues.",
+          "copyright": "Farah Miller"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gvEBtI"
+    },
+    {
+      "section": "reader-center",
+      "subsection": "",
+      "title": "Gen Z and Millennials: Tell Us if You Plan to Vote and Why",
+      "abstract": "Submit a video with your answers and they may be featured in an upcoming New York Times event.",
+      "url": "https://www.nytimes.com/2020/08/24/reader-center/gen-z-millennials-vote-callout.html",
+      "uri": "nyt://article/f9378da0-6b3c-5986-a13e-f058f1738fb0",
+      "byline": "By Elaine Chen",
+      "item_type": "Article",
+      "updated_date": "2020-09-03T17:40:11-04:00",
+      "created_date": "2020-08-24T19:40:05-04:00",
+      "published_date": "2020-08-24T19:40:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/29/us/politics/00GenZ-callout/merlin_168792408_3be8593f-6c03-4aa4-a4b5-6a768563bded-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1417,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/29/us/politics/00GenZ-callout/00GenZ-callout-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/29/us/politics/00GenZ-callout/00GenZ-callout-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/29/us/politics/00GenZ-callout/00GenZ-callout-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/29/us/politics/00GenZ-callout/merlin_168792408_3be8593f-6c03-4aa4-a4b5-6a768563bded-articleInline.jpg",
+          "format": "Normal",
+          "height": 132,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lh3Ymz"
+    },
+    {
+      "section": "education",
+      "subsection": "",
+      "title": "What Are Your Kids Drawing?",
+      "abstract": "We\u2019d love to see the ways your children are interpreting and reflecting on the coronavirus pandemic.",
+      "url": "https://www.nytimes.com/2020/08/24/education/kids-coronavirus-drawings.html",
+      "uri": "nyt://article/6ea76aaa-70cb-5efc-a327-574242360a67",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2020-08-28T15:08:45-04:00",
+      "created_date": "2020-08-24T10:01:03-04:00",
+      "published_date": "2020-08-24T10:01:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Art",
+        "Children and Childhood",
+        "Parenting",
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/23/style/oakImage-1584967912910-copy/oakImage-1584967912910-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of Ari Zimmet\u2019s middle school students drew this scene in Cray-pas, on his last day in school for a while.",
+          "copyright": "Ari Zimmet"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/23/style/oakImage-1584967912910-copy/oakImage-1584967912910-copy-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of Ari Zimmet\u2019s middle school students drew this scene in Cray-pas, on his last day in school for a while.",
+          "copyright": "Ari Zimmet"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/23/style/oakImage-1584967912910-copy/oakImage-1584967912910-copy-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of Ari Zimmet\u2019s middle school students drew this scene in Cray-pas, on his last day in school for a while.",
+          "copyright": "Ari Zimmet"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/23/style/oakImage-1584967912910-copy/oakImage-1584967912910-copy-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of Ari Zimmet\u2019s middle school students drew this scene in Cray-pas, on his last day in school for a while.",
+          "copyright": "Ari Zimmet"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/03/23/style/oakImage-1584967912910-copy/oakImage-1584967912910-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of Ari Zimmet\u2019s middle school students drew this scene in Cray-pas, on his last day in school for a while.",
+          "copyright": "Ari Zimmet"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hqOxpR"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Corporate America Agrees Black Lives Matter. What Comes Next?",
+      "abstract": "In a recent DealBook forum, Times journalists took stock of how much the country\u2019s most powerful companies are backing up statements against systemic racism.",
+      "url": "https://www.nytimes.com/2020/08/23/insider/business-racism.html",
+      "uri": "nyt://article/37979172-77e0-5671-a95a-0c8188b512d6",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-08-23T09:38:44-04:00",
+      "created_date": "2020-08-23T05:00:05-04:00",
+      "published_date": "2020-08-23T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Black Lives Matter Movement",
+        "Black People",
+        "Corporations",
+        "Discrimination",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [
+        "Hannah-Jones,  Nikole"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/23/pageoneplus/23insider-nhj/merlin_128697881_405264bd-3163-4d64-be1f-7a37b85d39d5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nikole Hannah-Jones, a staff writer at The New York Times Magazine, was awarded the Pulitzer Prize for commentary last month.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/23/pageoneplus/23insider-nhj/merlin_128697881_405264bd-3163-4d64-be1f-7a37b85d39d5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nikole Hannah-Jones, a staff writer at The New York Times Magazine, was awarded the Pulitzer Prize for commentary last month.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/23/pageoneplus/23insider-nhj/merlin_128697881_405264bd-3163-4d64-be1f-7a37b85d39d5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nikole Hannah-Jones, a staff writer at The New York Times Magazine, was awarded the Pulitzer Prize for commentary last month.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/23/pageoneplus/23insider-nhj/merlin_128697881_405264bd-3163-4d64-be1f-7a37b85d39d5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nikole Hannah-Jones, a staff writer at The New York Times Magazine, was awarded the Pulitzer Prize for commentary last month.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/23/pageoneplus/23insider-nhj/merlin_128697881_405264bd-3163-4d64-be1f-7a37b85d39d5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nikole Hannah-Jones, a staff writer at The New York Times Magazine, was awarded the Pulitzer Prize for commentary last month.",
+          "copyright": "James Estrin/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/31jjI0G"
+    },
+    {
+      "section": "reader-center",
+      "subsection": "",
+      "title": "How is the Coronavirus Affecting Low-Income Families? Share Your Story.",
+      "abstract": "The New York Times would like to learn more about how households making less than $30,000 or so are making ends meet and what impact the pandemic is having on them.",
+      "url": "https://www.nytimes.com/interactive/2020/08/23/reader-center/coronavirus-poverty-families-children.html",
+      "uri": "nyt://interactive/9186fb07-5bd9-5ff8-bda2-e8e816901f0d",
+      "byline": "By Jason DeParle",
+      "item_type": "Interactive",
+      "updated_date": "2020-08-26T14:15:20-04:00",
+      "created_date": "2020-08-23T01:25:15-04:00",
+      "published_date": "2020-08-23T01:25:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Poverty",
+        "Unemployment",
+        "Food Insecurity",
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/opinion/22deparle-callout/merlin_172642296_c2aae485-7ffd-4d0d-ae3f-373406d154f0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People line up at a food pantry in Brooklyn.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/opinion/22deparle-callout/merlin_172642296_c2aae485-7ffd-4d0d-ae3f-373406d154f0-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People line up at a food pantry in Brooklyn.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/opinion/22deparle-callout/merlin_172642296_c2aae485-7ffd-4d0d-ae3f-373406d154f0-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People line up at a food pantry in Brooklyn.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/opinion/22deparle-callout/merlin_172642296_c2aae485-7ffd-4d0d-ae3f-373406d154f0-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People line up at a food pantry in Brooklyn.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/opinion/22deparle-callout/merlin_172642296_c2aae485-7ffd-4d0d-ae3f-373406d154f0-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People line up at a food pantry in Brooklyn.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Yt6lJv"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Witnessing Pandemic New York, With an Ear to the Past",
+      "abstract": "The Times photographer Todd Heisler has crisscrossed New York City during the pandemic. A new project combines the images he captured with audio from before the virus quieted the city.",
+      "url": "https://www.nytimes.com/2020/08/21/insider/new-york-city-pictures-pandemic.html",
+      "uri": "nyt://article/62ac41ba-9e92-5b33-a345-195f417242f5",
+      "byline": "By Todd Heisler",
+      "item_type": "Article",
+      "updated_date": "2020-08-24T12:59:27-04:00",
+      "created_date": "2020-08-21T05:00:22-04:00",
+      "published_date": "2020-08-21T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Photography",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/insider/21insider-nyc-1/21insider-nyc-1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1275,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The view inside an entrance to an empty and shuttered Yankee Stadium, in May.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/insider/21insider-nyc-1/21insider-nyc-1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The view inside an entrance to an empty and shuttered Yankee Stadium, in May.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/insider/21insider-nyc-1/21insider-nyc-1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The view inside an entrance to an empty and shuttered Yankee Stadium, in May.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/insider/21insider-nyc-1/21insider-nyc-1-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The view inside an entrance to an empty and shuttered Yankee Stadium, in May.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/22/insider/21insider-nyc-1/21insider-nyc-1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The view inside an entrance to an empty and shuttered Yankee Stadium, in May.",
+          "copyright": "Todd Heisler/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3aJSAuC"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "The Games Are the Same. Covering Them Isn\u2019t.",
+      "abstract": "Five sportswriters on the experience of observing the action, and how their jobs have changed.",
+      "url": "https://www.nytimes.com/2020/08/21/insider/live-sports-reporting.html",
+      "uri": "nyt://article/1ded1bfe-97f9-54f5-9b9e-c930f2fc86e1",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-08-21T00:36:23-04:00",
+      "created_date": "2020-08-21T00:30:09-04:00",
+      "published_date": "2020-08-21T00:30:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "News and News Media",
+        "Baseball",
+        "Coronavirus (2019-nCoV)",
+        "PGA Championship",
+        "Golf",
+        "Basketball",
+        "Soccer"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/pageoneplus/21insider-wagner/21insider-wagner-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Major League Baseball limits the amount of media personnel at games, including at Yankee Stadium.",
+          "copyright": "James Wagner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/pageoneplus/21insider-wagner/21insider-wagner-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Major League Baseball limits the amount of media personnel at games, including at Yankee Stadium.",
+          "copyright": "James Wagner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/pageoneplus/21insider-wagner/21insider-wagner-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Major League Baseball limits the amount of media personnel at games, including at Yankee Stadium.",
+          "copyright": "James Wagner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/pageoneplus/21insider-wagner/21insider-wagner-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Major League Baseball limits the amount of media personnel at games, including at Yankee Stadium.",
+          "copyright": "James Wagner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/pageoneplus/21insider-wagner/21insider-wagner-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Major League Baseball limits the amount of media personnel at games, including at Yankee Stadium.",
+          "copyright": "James Wagner"
+        }
+      ],
+      "short_url": "https://nyti.ms/2QdMOIs"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Finding Strength in Stressful Times",
+      "abstract": "Through the experiences and expertise of a variety of writers, the Resilience series offers readers tools to cope.",
+      "url": "https://www.nytimes.com/2020/08/19/insider/virus-resilience-series.html",
+      "uri": "nyt://article/30970c7b-dbbd-53e2-8643-e535864ccd79",
+      "byline": "By Dan Saltzstein",
+      "item_type": "Article",
+      "updated_date": "2020-08-20T00:01:16-04:00",
+      "created_date": "2020-08-19T05:00:15-04:00",
+      "published_date": "2020-08-19T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": [
+        "Content Type: Service",
+        "Coronavirus (2019-nCoV)",
+        "Writing and Writers",
+        "Books and Literature",
+        "Quarantines",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/insider/19insider-resilience/19insider-resilience-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1200,
+          "width": 1800,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Avalon Nuovo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/insider/19insider-resilience/19insider-resilience-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Avalon Nuovo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/insider/19insider-resilience/19insider-resilience-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Avalon Nuovo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/insider/19insider-resilience/19insider-resilience-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Avalon Nuovo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/insider/19insider-resilience/19insider-resilience-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "Avalon Nuovo"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Q4EGtw"
+    }
+  ]
+}

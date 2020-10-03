@@ -1,0 +1,1217 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/b1c83800-a65e-5662-a8e2-0468036a4168",
+      "url": "https://www.nytimes.com/2020/10/01/opinion/trump-ethics-immorality.html",
+      "id": 100000007372386,
+      "asset_id": 100000007372386,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-03 08:10:39",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Polls and Public Opinion;Ethics (Personal);Books and Literature;Nationalism (Theory and Philosophy);Trump, Donald J;Hibbing, John R",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "At His Core, Trump Is an Immoralist",
+      "abstract": "Will we let this man and his felons drag us to moral chaos?",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Ethics (Personal)",
+        "Books and Literature",
+        "Nationalism (Theory and Philosophy)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Hibbing, John R"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In this presidential campaign, Trump\u2019s nationalist platform \u2014 trade, immigration \u2014 has faded into the background while his immoral nature has taken center stage.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/01BrooksWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/merlin_177907830_d9bcfb7e-9e00-42f2-a609-9aa7af8e830e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/merlin_177907830_d9bcfb7e-9e00-42f2-a609-9aa7af8e830e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5696c056-f681-5cfd-9cb2-7ba553856976",
+      "url": "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus.html",
+      "id": 100000007374284,
+      "asset_id": 100000007374284,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-03 08:22:46",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Masks;United States Politics and Government;Trump Coronavirus Positive Result;Trump, Donald J",
+      "column": null,
+      "byline": "By Frank Bruni",
+      "type": "Article",
+      "title": "Defiant, Now Infected: Trump Is a Morality Tale",
+      "abstract": "The president has the coronavirus. Let\u2019s learn from that.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "United States Politics and Government",
+        "Trump Coronavirus Positive Result"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/02BruniWeb-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/merlin_177949650_5b7316bb-8be2-46d7-ade0-7720e51fdb07-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/merlin_177949650_5b7316bb-8be2-46d7-ade0-7720e51fdb07-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fb8372f2-a20e-53ec-ba91-b380911ef8bd",
+      "url": "https://www.nytimes.com/2020/10/01/well/live/where-you-carry-body-fat-may-affect-how-long-you-live.html",
+      "id": 100000007369727,
+      "asset_id": 100000007369727,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-01 09:25:05",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Weight;Deaths (Fatalities)",
+      "column": null,
+      "byline": "By Nicholas Bakalar",
+      "type": "Article",
+      "title": "Where You Carry Body Fat May Affect How Long You Live",
+      "abstract": "Extra weight in some places may lower your risk of dying prematurely.",
+      "des_facet": [
+        "Weight",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amrita Marino",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/08/04/smarter-living/well-pog-dieting/well-pog-dieting-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/de217dd9-3383-574a-9eaf-c0303570e794",
+      "url": "https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html",
+      "id": 100000007137500,
+      "asset_id": 100000007137500,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-02 16:04:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;Presidents and Presidency (US);Tests (Medical);Twenty-Fifth Amendment (US Constitution);Presidential Election of 2020;Trump Coronavirus Positive Result;Trump, Donald J",
+      "column": null,
+      "byline": "By Peter Baker and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Tests Positive for the Coronavirus",
+      "abstract": "The president\u2019s result came after he spent months playing down the severity of the outbreak that has killed more than 207,000 in the United States and hours after insisting that \u201cthe end of the pandemic is in sight.\u201d",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Presidents and Presidency (US)",
+        "Tests (Medical)",
+        "Twenty-Fifth Amendment (US Constitution)",
+        "Presidential Election of 2020",
+        "Trump Coronavirus Positive Result"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s positive test result posed immediate challenges for the future of his campaign with barely a month until Election Day.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-virus-trump-sub/02dc-virus-trump-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-virus-trump-sub/merlin_177879399_b71eae36-09c6-4b20-91bc-172b699f76bb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-virus-trump-sub/merlin_177879399_b71eae36-09c6-4b20-91bc-172b699f76bb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b15aa80-ee3b-5f5a-9055-a94d36196d85",
+      "url": "https://www.nytimes.com/2020/10/01/technology/taiwan-china-tsmc-huawei.html",
+      "id": 100000007349826,
+      "asset_id": 100000007349826,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 10:41:43",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "5G (Wireless Communications);United States International Relations;Computers and the Internet;Computer Chips;United States Politics and Government;Tsai Ing-wen;Taiwan Semiconductor Manufacturing Company Ltd;Semiconductor Manufacturing International Corporation;Huawei Technologies Co Ltd;Taiwan;China",
+      "column": null,
+      "byline": "By Raymond Zhong",
+      "type": "Article",
+      "title": "In U.S.-China Tech Feud, Taiwan Feels Heat From Both Sides",
+      "abstract": "The island\u2019s biggest chip maker has been a coveted partner to both battling giants. But rising nationalism is making it harder to keep the middle ground.",
+      "des_facet": [
+        "5G (Wireless Communications)",
+        "United States International Relations",
+        "Computers and the Internet",
+        "Computer Chips",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Taiwan Semiconductor Manufacturing Company Ltd",
+        "Semiconductor Manufacturing International Corporation",
+        "Huawei Technologies Co Ltd"
+      ],
+      "per_facet": [
+        "Tsai Ing-wen"
+      ],
+      "geo_facet": [
+        "Taiwan",
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Taiwan have a rhyme about TSMC\u2019s workers: Shift by shift, they are saving Taiwan.",
+          "copyright": "An Rong Xu for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/52ad6ba3-d175-55ab-a6b9-7f69c2fa097b",
+      "url": "https://www.nytimes.com/2020/10/01/arts/television/good-lord-bird-review.html",
+      "id": 100000007371151,
+      "asset_id": 100000007371151,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 11:14:25",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;Slavery (Historical);Hawke, Ethan;Diggs, Daveed;McBride, James;Brown, John (1800-59);Showtime",
+      "column": null,
+      "byline": "By Mike Hale",
+      "type": "Article",
+      "title": "\u2018The Good Lord Bird\u2019 Review: The Necessity of John Brown",
+      "abstract": "Ethan Hawke plays the wild-eyed abolitionist in Showtime\u2019s adaptation of the award-winning novel by James McBride.",
+      "des_facet": [
+        "Television",
+        "Slavery (Historical)"
+      ],
+      "org_facet": [
+        "Showtime"
+      ],
+      "per_facet": [
+        "Hawke, Ethan",
+        "Diggs, Daveed",
+        "McBride, James",
+        "Brown, John (1800-59)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;The Good Lord Bird&rdquo; is based on the James McBride novel about John Brown. Ethan Hawke stars as the messianic abolitionist and Joshua Caleb Johnson as the former slave he adopts.",
+          "copyright": "William Gray/Showtime",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/arts/01goodlordbird/02goodlordbird-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/arts/01goodlordbird/02goodlordbird-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/arts/01goodlordbird/02goodlordbird-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5a019348-e16e-5556-853d-88b72200a68a",
+      "url": "https://www.nytimes.com/article/british-detective-series.html",
+      "id": 100000007357405,
+      "asset_id": 100000007357405,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-01 14:56:33",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television",
+      "column": null,
+      "byline": "By The Watching Team",
+      "type": "Article",
+      "title": "Stream These Great British Detective Shows",
+      "abstract": "Complex characters and long, slow-moving mystery plots are the hallmarks of these crime dramas from across the pond. The charming accents are just a bonus.",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sarah Lancashire in \u201cHappy Valley.\u201d",
+          "copyright": "Ben Blackall/BBC",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/03/16/watching/happy-valley-watching-recommendation/happy-valley-watching-recommendation-thumbStandard-v5.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/03/16/watching/happy-valley-watching-recommendation/happy-valley-watching-recommendation-mediumThreeByTwo210-v6.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/03/16/watching/happy-valley-watching-recommendation/happy-valley-watching-recommendation-mediumThreeByTwo440-v6.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c90f49b-089a-5e75-9746-8ccfdfe018d1",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/melania-trump-tapes.html",
+      "id": 100000007373819,
+      "asset_id": 100000007373819,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 12:49:22",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "First Ladies (US);Audio Recordings, Downloads and Streaming;Family Separation Policy (US Immigration);Illegal Immigration;Books and Literature;United States Politics and Government;Trump, Melania;Winston Wolkoff, Stephanie;Trump, Donald J",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "In Profane Rant, Melania Trump Takes Aim at Migrant Children and Critics",
+      "abstract": "The audio recording puts the first lady\u2019s frustrations on full display just weeks before President Trump faces the voters in his bid for a second term.",
+      "des_facet": [
+        "First Ladies (US)",
+        "Audio Recordings, Downloads and Streaming",
+        "Family Separation Policy (US Immigration)",
+        "Illegal Immigration",
+        "Books and Literature",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Melania",
+        "Winston Wolkoff, Stephanie",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The first lady, Melania Trump, complained in a recorded conversation in 2018 about having to worry about Christmas decorations.",
+          "copyright": "Kevin Lamarque/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bf3b0660-4dbb-50e7-9ffe-2e4373fd30f9",
+      "url": "https://www.nytimes.com/2020/10/02/realestate/nymarket-still-down.html",
+      "id": 100000007372814,
+      "asset_id": 100000007372814,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-02 05:59:55",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Quarantine (Life and Culture);Shutdowns (Institutional);Condominiums;Manhattan (NYC);Brooklyn (NYC)",
+      "column": null,
+      "byline": "By Sydney Franklin",
+      "type": "Article",
+      "title": "Real Estate Sales Continue to Stagnate in Manhattan",
+      "abstract": "The number of apartments sold in the last three months was down by 46 percent compared to the same period in 2019.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Quarantine (Life and Culture)",
+        "Shutdowns (Institutional)",
+        "Condominiums"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Manhattan (NYC)",
+        "Brooklyn (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "While restrictions on in-person showings were lifted in June, sales in Manhattan remain far from pre-pandemic levels.\u00a0",
+          "copyright": "Stefano Ukmar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/travel/02nymarket/02nymarket-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/travel/02nymarket/02nymarket-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/travel/02nymarket/02nymarket-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/58f3ecdc-761e-5a19-a8e2-b6108ee07b96",
+      "url": "https://www.nytimes.com/2020/10/01/us/army-naps.html",
+      "id": 100000007370716,
+      "asset_id": 100000007370716,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-01 16:08:02",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Exercise;Sleep;Fatigue;Medicine and Health;United States Army",
+      "column": null,
+      "byline": "By Dave Philipps",
+      "type": "Article",
+      "title": "The Army Rolls Out a New Weapon: Strategic Napping",
+      "abstract": "Because fatigue can corrode mission performance, a new physical training manual tells soldiers to grab 40 winks when they can, part of a new holistic approach to health in the ranks.",
+      "des_facet": [
+        "Exercise",
+        "Sleep",
+        "Fatigue",
+        "Medicine and Health"
+      ],
+      "org_facet": [
+        "United States Army"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Army\u2019s latest overhaul of its physical training manual says adequate sleep is necessary for optimal soldier performance.",
+          "copyright": "Bryan Woolston/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/30army-naps-2/merlin_166702260_c365464a-6e07-458f-aeda-93c6dbf92321-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/30army-naps-2/merlin_166702260_c365464a-6e07-458f-aeda-93c6dbf92321-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/30army-naps-2/merlin_166702260_c365464a-6e07-458f-aeda-93c6dbf92321-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8a187ff4-a1ef-5245-a10c-add47e3a3a82",
+      "url": "https://www.nytimes.com/2020/10/02/us/colleges-coronavirus-success.html",
+      "id": 100000007369974,
+      "asset_id": 100000007369974,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-02 19:36:37",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Colleges and Universities;Tests (Medical);Coronavirus (2019-nCoV);Disease Rates;Amherst College;Broad Institute;Colby College;Cornell College;Delaware State University;Duke University;Wesleyan University",
+      "column": null,
+      "byline": "By Shawn Hubler",
+      "type": "Article",
+      "title": "Colleges Learn How to Suppress Coronavirus: Extensive Testing",
+      "abstract": "While many campuses are struggling with major outbreaks, some schools have successfully contained the virus.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Tests (Medical)",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates"
+      ],
+      "org_facet": [
+        "Amherst College",
+        "Broad Institute",
+        "Colby College",
+        "Cornell College",
+        "Delaware State University",
+        "Duke University",
+        "Wesleyan University"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sam Marchant, a senior, studying for his physics class  at Colby. The campus has had 10 positive tests, a few of which turned out to be false positives.",
+          "copyright": "Tristan Spinski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/01virus-collegesuccess03/01virus-collegesuccess03-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/01virus-collegesuccess03/01virus-collegesuccess03-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/01virus-collegesuccess03/01virus-collegesuccess03-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6ba227ef-3f4c-59ad-ae73-897342f517f2",
+      "url": "https://www.nytimes.com/2020/09/30/world/europe/swearing-parrots-lincolnshire.html",
+      "id": 100000007369447,
+      "asset_id": 100000007369447,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 19:37:09",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Parrots;Indecency, Obscenity and Profanity;Lincolnshire Wildlife Park (Friskney, England);Great Britain",
+      "column": null,
+      "byline": "By Daniel Victor",
+      "type": "Article",
+      "title": "Foul-Mouthed Parrots to Return to Park, Possibly Reformed",
+      "abstract": "Five birds who moved to an English park had unprintable vocabularies, which they deployed on amused guests. Keepers said the parrots also learned to laugh at one another.",
+      "des_facet": [
+        "Parrots",
+        "Indecency, Obscenity and Profanity"
+      ],
+      "org_facet": [
+        "Lincolnshire Wildlife Park (Friskney, England)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Billy, one of the five parrots at the Lincolnshire Wildlife Park in Friskney, England, that has been swearing at visitors. \u201cBilly is the worst one,\u201d a park official said.\u00a0",
+          "copyright": "Lincolnshire Wildlife Park",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/science/30xp-parrots/30xp-parrots-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/science/30xp-parrots/30xp-parrots-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/science/30xp-parrots/30xp-parrots-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9131aa44-1ca6-5587-814f-efb6c1070a19",
+      "url": "https://www.nytimes.com/2020/10/01/us/wisconsin-coronavirus-election.html",
+      "id": 100000007362030,
+      "asset_id": 100000007362030,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 11:11:09",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Presidential Election of 2020;Shutdowns (Institutional);Masks;Wisconsin;Oshkosh (Wis)",
+      "column": null,
+      "byline": "By Julie Bosman",
+      "type": "Article",
+      "title": "Wisconsin Is Frazzled by Surging Virus Cases and Growing Campaign Frenzy",
+      "abstract": "The state, up for grabs in the presidential election, has become a coronavirus hot spot. \u201cIt\u2019s too late\u201d to solve, one mayor says.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Presidential Election of 2020",
+        "Shutdowns (Institutional)",
+        "Masks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Wisconsin",
+        "Oshkosh (Wis)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eileen Isham, 69, outside her Oshkosh home in the swing state of Wisconsin, has been hand-painting signs for each presidential election since she was 17.",
+          "copyright": "Lauren Justice for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/02virus-wisconsin04/02virus-wisconsin04-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/02virus-wisconsin04/02virus-wisconsin04-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/02virus-wisconsin04/02virus-wisconsin04-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f6599037-56c4-5a4f-8374-c9312fbe4208",
+      "url": "https://www.nytimes.com/2020/10/01/t-magazine/sag-harbor.html",
+      "id": 100000007346417,
+      "asset_id": 100000007346417,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 22:28:37",
+      "section": "T Magazine",
+      "subsection": "",
+      "nytdsection": "t magazine",
+      "adx_keywords": "Black People;Families and Family Life;Historic Buildings and Sites;Real Estate and Housing (Residential);Sag Harbor (NY)",
+      "column": null,
+      "byline": "By Sandra E. Garcia",
+      "type": "Article",
+      "title": "On Long Island, a Beachfront Haven for Black Families",
+      "abstract": "In the 1930s, a group of trailblazing African-Americans bought plots for themselves in Sag Harbor, establishing a close-knit community that\u2019s spanned multiple generations.",
+      "des_facet": [
+        "Black People",
+        "Families and Family Life",
+        "Historic Buildings and Sites",
+        "Real Estate and Housing (Residential)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Sag Harbor (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "William Pickens III with his son John on their private beach.",
+          "copyright": "Jon Henry",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a4ed1d2f-7c42-526f-9b48-1971a50f6246",
+      "url": "https://www.nytimes.com/2020/10/01/us/amy-coney-barrett-abortion.html",
+      "id": 100000007372807,
+      "asset_id": 100000007372807,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 09:38:32",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Appointments and Executive Changes;Abortion;Roe v Wade (Supreme Court Decision);United States Politics and Government;Barrett, Amy Coney;Trump, Donald J;Supreme Court (US)",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "Amy Coney Barrett, Trump\u2019s Supreme Court Pick, Signed Anti-Abortion Ad",
+      "abstract": "Her statement appears to be the most direct evidence of her personal views, ones she has vowed to set aside on the bench.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Abortion",
+        "Roe v Wade (Supreme Court Decision)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe, the following citizens of Michiana, oppose abortion on demand and defend the right to life from fertilization to natural death,\u201d said a statement Judge Amy Coney Barrett endorsed in 2006.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-barrett/01dc-barrett-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-barrett/merlin_177911658_70b84a0c-7300-487f-b207-0793299cf28c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-barrett/merlin_177911658_70b84a0c-7300-487f-b207-0793299cf28c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c5063ba7-6659-5b1d-b9a1-f80192ddef1a",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/52-places-traveler-biking-ny.html",
+      "id": 100000007359071,
+      "asset_id": 100000007359071,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-03 06:36:41",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Quarantine (Life and Culture);Bicycles and Bicycling;Road Trips",
+      "column": null,
+      "byline": "By Sebastian Modak",
+      "type": "Article",
+      "title": "I Traveled to 52 Places. Then I Discovered N.Y. on My Bike.",
+      "abstract": "After a nonstop year zooming to far-flung destinations for The Times, a well-traveled writer learns to love the local attractions \u2014 and the spaces in between.",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Bicycles and Bicycling",
+        "Road Trips"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The hills might not look like much from a car, but on a bike, the Catskills are definitely a climb.",
+          "copyright": "Sebastian Modak",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0ae9ed2c-429c-5803-b6a5-1674bf1151d2",
+      "url": "https://www.nytimes.com/2020/04/11/business/coronavirus-destroying-food.html",
+      "id": 100000007080497,
+      "asset_id": 100000007080497,
+      "source": "New York Times",
+      "published_date": "2020-04-11",
+      "updated": "2020-04-17 13:04:30",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Agriculture and Farming;Dairy Products;Vegetables;Poultry;Food;Waste Materials and Disposal;Shortages;Coronavirus (2019-nCoV);Shutdowns (Institutional);United States",
+      "column": null,
+      "byline": "By David Yaffe-Bellany and Michael Corkery",
+      "type": "Article",
+      "title": "Dumped Milk, Smashed Eggs, Plowed Vegetables: Food Waste of the Pandemic",
+      "abstract": "With restaurants, hotels and schools closed, many of the nation\u2019s largest farms are destroying millions of pounds of fresh goods that they can no longer sell.",
+      "des_facet": [
+        "Agriculture and Farming",
+        "Dairy Products",
+        "Vegetables",
+        "Poultry",
+        "Food",
+        "Waste Materials and Disposal",
+        "Shortages",
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A tractor mulches green beans at an R.C. Hatton farm in Florida. &ldquo;It&rsquo;s heartbreaking,&rdquo; an owner of the farm said.",
+          "copyright": "Rose Marie Cromwell for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/04/12/business/12virus-foodwaste/11virus-foodwaste-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/04/12/business/12virus-foodwaste/11virus-foodwaste-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/04/12/business/12virus-foodwaste/11virus-foodwaste-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/64a0ce37-b0a7-556b-8856-47e14276cf4e",
+      "url": "https://www.nytimes.com/2020/09/29/well/family/teenagers-emotional-well-being-pandemic.html",
+      "id": 100000007348274,
+      "asset_id": 100000007348274,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-10-01 07:57:27",
+      "section": "Well",
+      "subsection": "Family",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Emotions;Anxiety and Stress;Psychology and Psychologists;Coronavirus (2019-nCoV);Teenagers and Adolescence",
+      "column": null,
+      "byline": "By Lisa Damour",
+      "type": "Article",
+      "title": "Dear Teenagers, Here\u2019s How to Protect Your Emotional Well-Being",
+      "abstract": "Guidance for teenagers on staying steady in the turmoil of the pandemic.",
+      "des_facet": [
+        "Content Type: Service",
+        "Emotions",
+        "Anxiety and Stress",
+        "Psychology and Psychologists",
+        "Coronavirus (2019-nCoV)",
+        "Teenagers and Adolescence"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kim Ryu",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/well/00well-teen-wellness/00well-teen-wellness-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/well/00well-teen-wellness/00well-teen-wellness-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/well/00well-teen-wellness/00well-teen-wellness-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8bc95cd9-1d6c-56b2-a295-ee50e40b71a2",
+      "url": "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.html",
+      "id": 100000007374401,
+      "asset_id": 100000007374401,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-03 08:22:45",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Tests (Medical);Trump, Donald J;Biden, Joseph R Jr;Hicks, Hope C (1988- );Trump, Melania",
+      "column": null,
+      "byline": "By Melinda Wenner Moyer",
+      "type": "Article",
+      "title": "Biden Tested Negative. He Could Still Have the Coronavirus.",
+      "abstract": "It\u2019s dangerous to assume that a negative test means you can\u2019t spread this disease.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Tests (Medical)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Hicks, Hope C (1988- )",
+        "Trump, Melania"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Biden in Pittsburgh on Wednesday.",
+          "copyright": "Gabriela Bhaskar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/opinion/02moyerNew/02moyerNew-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/opinion/02moyerNew/02moyerNew-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/opinion/02moyerNew/02moyerNew-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6ce9bb8e-8eb0-5037-8fde-1e8b52e67c32",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html",
+      "id": 100000007370672,
+      "asset_id": 100000007370672,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 08:16:23",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Rumors and Misinformation;Coronavirus (2019-nCoV);Research;United States Politics and Government;Conspiracy Theories;Trump, Donald J;Fauci, Anthony S;Cornell University",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg and Noah Weiland",
+      "type": "Article",
+      "title": "Study Finds \u2018Single Largest Driver\u2019 of Coronavirus Misinformation: Trump",
+      "abstract": "Cornell University researchers analyzing 38 million English-language articles about the pandemic found that President Trump was the largest driver of the \u201cinfodemic.\u201d",
+      "des_facet": [
+        "Rumors and Misinformation",
+        "Coronavirus (2019-nCoV)",
+        "Research",
+        "United States Politics and Government",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Cornell University"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Fauci, Anthony S"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mentions of President Trump made up nearly 38 percent of the overall online \u201cmisinformation conversation\u201d about the virus, researchers said.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/30dc-virus-disinformation-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/merlin_177865905_2a60a903-61c9-4986-9282-d6b68afb8e2e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/merlin_177865905_2a60a903-61c9-4986-9282-d6b68afb8e2e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
